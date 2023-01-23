@@ -1,0 +1,32 @@
+body{
+    font-family: 'Unbounded', cursive;
+    color: white;
+    background-image: url("AIRSHIP.jpg");
+    text-align: center;
+}
+#saveButton{
+    border-radius: 30px;
+    background-color: brown;
+    border: 5px solid black;
+    color: white;
+    font-family: 'Unbounded', cursive;
+    padding: 30px;
+    font-size: 15px;
+}
+h1{
+    font-size: 30px;
+}
+.Container{
+    text-align: center;
+    border-radius: 30px;
+    background-color: brown;
+    border: 5px solid black;
+    color: white;
+    font-family: 'Unbounded', cursive;
+    padding-bottom: 30px;
+}
+canvas{
+    margin-top: 30px;
+    border-radius: 30px;
+    border: 5px solid black;
+}
